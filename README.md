@@ -1,7 +1,7 @@
 
 
 
-#Web Reconnaissance Tool 🕵️‍♂️
+# Web Reconnaissance Tool 🕵️‍♂️
 
 A Python-based **OSINT (Open Source Intelligence)** tool designed to harvest links and extract email addresses from target websites. This project demonstrates the practical application of HTTP requests, HTML parsing, and Regular Expressions (Regex) in a cybersecurity context.
 
