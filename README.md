@@ -1,6 +1,4 @@
-Mesaj alındı. Haklısın, lafı uzattım.
 
-İşte sadece **README.md** dosyası. Tek parça halinde, kopyala ve yapıştır:
 
 ````markdown
 # Web Reconnaissance Tool 🕵️‍♂️
